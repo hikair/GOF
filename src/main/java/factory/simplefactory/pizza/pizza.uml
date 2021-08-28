@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.pizza</OriginalElement>
+  <nodes>
+    <node x="0.0" y="79.0">com.pizza.CheesePizza</node>
+    <node x="145.0" y="79.0">com.pizza.GreekPizza</node>
+    <node x="91.75" y="0.0">com.pizza.Pizza</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.pizza.GreekPizza" target="com.pizza.Pizza">
+      <point x="0.0" y="-14.5" />
+      <point x="204.0" y="54.0" />
+      <point x="154.0" y="54.0" />
+      <point x="20.75" y="14.5" />
+    </edge>
+    <edge source="com.pizza.CheesePizza" target="com.pizza.Pizza">
+      <point x="0.0" y="-14.5" />
+      <point x="62.5" y="54.0" />
+      <point x="112.5" y="54.0" />
+      <point x="-20.75" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="131.5" y="54.0" />
+  <SelectedNodes>
+    <node>com.pizza.CheesePizza</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
