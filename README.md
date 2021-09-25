@@ -18,13 +18,13 @@ study for design pattern
 ### [7.代理模式 Proxy](src/main/java/proxy/dynamic/Client.java)
 
 ## 三、行为型
-### 1.责任链模式 Chain of Responsibility
-### 2.命令模式 Command
-### 3.迭代器模式 Iterator
+### [1.责任链模式 Chain of Responsibility](src/main/java/responsibilitychain/Client.java)
+### [2.命令模式 Command](src/main/java/command/Client.java)
+### [3.迭代器模式 Iterator](src/main/java/iterator/Client.java)
 ### 4.中介者模式 Mediator
 ### 5.备忘录模式 Memento
-### 6.观察者模式 Observer
-### 7.状态模式 State
+### [6.观察者模式 Observer](src/main/java/observer/improve/Client.java)
+### 7.状态模式 State 
 ### 8.策略模式 Strategy
 ### [9.模板方法模式 Template Method](src/main/java/template/improve/Client.java)
 ### [10.访问者模式 Visitor](src/main/java/visitor/Client.java)
