@@ -21,7 +21,7 @@ study for design pattern
 ### [1.责任链模式 Chain of Responsibility](src/main/java/responsibilitychain/Client.java)
 ### [2.命令模式 Command](src/main/java/command/Client.java)
 ### [3.迭代器模式 Iterator](src/main/java/iterator/Client.java)
-### 4.中介者模式 Mediator
+### [4.中介者模式 Mediator](src\main\java\mediator\Client.java)
 ### 5.备忘录模式 Memento
 ### [6.观察者模式 Observer](src/main/java/observer/improve/Client.java)
 ### 7.状态模式 State 
