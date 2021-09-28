@@ -24,7 +24,7 @@ study for design pattern
 ### [4.中介者模式 Mediator](src/main/java/mediator/Client.java)
 ### [5.备忘录模式 Memento](src/main/java/memento/Client.java)
 ### [6.观察者模式 Observer](src/main/java/observer/improve/Client.java)
-### 7.状态模式 State 
+### [7.状态模式 State ](src/main/java/state/Client.java)
 ### 8.策略模式 Strategy
 ### [9.模板方法模式 Template Method](src/main/java/template/improve/Client.java)
 ### [10.访问者模式 Visitor](src/main/java/visitor/Client.java)
